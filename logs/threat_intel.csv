@@ -1,0 +1,6 @@
+indicator,category,confidence,first_seen,notes
+151.101.1.140,Historical malware distribution,low,2023-11-02,"Shared CDN address, reassigned; retained for historical correlation only"
+212.39.182.107,Anonymising VPN / bulletproof hosting,high,2026-08-30,Observed in credential-replay activity against healthcare targets
+193.106.191.44,Command and control,high,2026-09-01,Unrelated botnet controller
+45.83.220.7,Phishing infrastructure,medium,2026-07-19,Credential harvesting pages
+80.94.95.112,Scanning infrastructure,low,2026-09-04,Mass internet scanning

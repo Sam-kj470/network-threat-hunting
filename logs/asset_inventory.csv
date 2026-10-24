@@ -1,0 +1,92 @@
+ip_address,hostname,role,business_unit,os,notes
+10.20.10.20,WS-CLIN-001,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.21,WS-CLIN-002,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.22,WS-CLIN-003,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.23,WS-CLIN-004,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.24,WS-CLIN-005,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.25,WS-CLIN-006,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.26,WS-CLIN-007,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.27,WS-CLIN-008,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.28,WS-CLIN-009,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.29,WS-CLIN-010,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.30,WS-CLIN-011,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.31,WS-CLIN-012,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.32,WS-CLIN-013,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.33,WS-CLIN-014,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.34,WS-CLIN-015,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.35,WS-CLIN-016,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.36,WS-CLIN-017,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.37,WS-CLIN-018,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.38,WS-CLIN-019,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.39,WS-CLIN-020,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.40,WS-CLIN-021,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.41,WS-CLIN-022,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.42,WS-CLIN-023,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.43,WS-CLIN-024,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.44,WS-CLIN-025,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.45,WS-CLIN-026,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.46,WS-CLIN-027,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.47,WS-CLIN-028,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.48,WS-CLIN-029,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.49,WS-CLIN-030,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.50,WS-CLIN-031,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.51,WS-CLIN-032,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.52,WS-CLIN-033,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.53,WS-CLIN-034,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.54,WS-CLIN-035,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.55,WS-CLIN-036,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.56,WS-CLIN-037,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.57,WS-CLIN-038,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.58,WS-CLIN-039,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.59,WS-CLIN-040,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.60,WS-CLIN-041,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.61,WS-CLIN-042,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.62,WS-CLIN-043,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.63,WS-CLIN-044,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.64,WS-CLIN-045,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.65,WS-CLIN-046,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.66,WS-CLIN-047,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.67,WS-CLIN-048,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.68,WS-CLIN-049,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.69,WS-CLIN-050,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.70,WS-CLIN-051,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.71,WS-CLIN-052,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.72,WS-CLIN-053,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.73,WS-CLIN-054,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.74,WS-CLIN-055,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.75,WS-CLIN-056,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.76,WS-CLIN-057,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.77,WS-CLIN-058,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.78,WS-CLIN-059,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.10.79,WS-CLIN-060,Clinical workstation,Clinical,Windows 11,Standard user endpoint
+10.20.20.11,FS-CLIN-01,File server,Data centre,Ubuntu 24.04,Clinical records share
+10.20.20.12,FS-ADMIN-01,File server,Data centre,Ubuntu 24.04,Administrative share
+10.20.20.13,FS-IMG-01,File server,Data centre,Ubuntu 24.04,Imaging archive
+10.20.20.15,BKP-01,Backup server,Data centre,Ubuntu 24.04,"Offsite backup agent, nightly window"
+10.20.20.20,APP-EHR-01,Application server,Data centre,Ubuntu 24.04,"EHR application, monitoring agent installed"
+10.20.20.25,DC-01,Domain controller,Data centre,Ubuntu 24.04,Active Directory
+10.20.20.30,APP-N8N-01,Application server,Data centre,Ubuntu 24.04,n8n workflow automation
+10.20.20.31,APP-LF-01,Application server,Data centre,Ubuntu 24.04,Langflow prototyping
+10.20.30.50,SEC-SCAN-01,Vulnerability scanner,IT security,Ubuntu 24.04,"Authorised internal scanning, Tue and Fri 22:00-00:00"
+10.20.30.10,ADM-JUMP-01,Jump host,IT security,Ubuntu 24.04,Administrative access to server VLAN
+10.20.50.70,KIOSK-01,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.71,KIOSK-02,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.72,KIOSK-03,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.73,KIOSK-04,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.74,KIOSK-05,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.75,KIOSK-06,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.76,KIOSK-07,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.77,KIOSK-08,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.78,KIOSK-09,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.79,KIOSK-10,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.80,KIOSK-11,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.81,KIOSK-12,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.82,KIOSK-13,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.83,KIOSK-14,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.84,KIOSK-15,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.85,KIOSK-16,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.86,KIOSK-17,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.87,KIOSK-18,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.88,KIOSK-19,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.50.89,KIOSK-20,Patient kiosk,Front desk,Embedded Linux,Self-service check-in terminal
+10.20.40.0/24,VPN-POOL,VPN address pool,Remote access,n/a,Addresses assigned dynamically to remote users
